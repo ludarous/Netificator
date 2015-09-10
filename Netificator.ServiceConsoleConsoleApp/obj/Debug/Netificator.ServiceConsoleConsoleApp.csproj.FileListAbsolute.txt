@@ -1,0 +1,8 @@
+C:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.ServiceConsoleConsoleApp\bin\Debug\Netificator.ServiceConsoleConsoleApp.exe.config
+C:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.ServiceConsoleConsoleApp\bin\Debug\Netificator.ServiceConsoleConsoleApp.exe
+C:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.ServiceConsoleConsoleApp\bin\Debug\Netificator.ServiceConsoleConsoleApp.pdb
+C:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.ServiceConsoleConsoleApp\bin\Debug\Netificator.CommunicationService.dll
+C:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.ServiceConsoleConsoleApp\bin\Debug\Netificator.CommunicationService.pdb
+C:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.ServiceConsoleConsoleApp\obj\Debug\Netificator.ServiceConsoleConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.ServiceConsoleConsoleApp\obj\Debug\Netificator.ServiceConsoleConsoleApp.exe
+C:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.ServiceConsoleConsoleApp\obj\Debug\Netificator.ServiceConsoleConsoleApp.pdb

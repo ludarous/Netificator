@@ -1,0 +1,9 @@
+C:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.Business\bin\Debug\Netificator.Business.dll
+C:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.Business\bin\Debug\Netificator.Business.pdb
+C:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.Business\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.Business\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.Business\obj\Debug\Netificator.Business.csprojResolveAssemblyReference.cache
+C:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.Business\obj\Debug\Netificator.Business.dll
+C:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.Business\obj\Debug\Netificator.Business.pdb
+C:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.Business\bin\Debug\Netificator.LogService.dll
+C:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.Business\bin\Debug\Netificator.LogService.pdb

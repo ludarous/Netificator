@@ -1,0 +1,4 @@
+C:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.LogService\bin\Release\Netificator.LogService.dll
+C:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.LogService\bin\Release\Netificator.LogService.pdb
+C:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.LogService\obj\Release\Netificator.LogService.dll
+C:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.LogService\obj\Release\Netificator.LogService.pdb

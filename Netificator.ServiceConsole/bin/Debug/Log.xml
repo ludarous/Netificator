@@ -1,0 +1,752 @@
+<?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>2ca8b1eb-ea4f-42d5-a430-54dd34cfbb68</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-08T15:03:15.3349898+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>5851f6f0-cbd7-4205-bf05-c810308c18bd</MessageId>
+  <Message>Zavolání úspěšné</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-08T15:03:17.8110651+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>bdd73fc0-90e3-4fad-9314-cc3614024176</MessageId>
+  <Message>Getting objects - Length: 20</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-08T15:04:41.6441599+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>80459bdb-b181-4a87-be11-58bab038a632</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-08T15:04:41.652168+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>679172b8-46ed-4ec0-adae-bec0b9845dc5</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-08T15:13:09.2372185+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>ef4788ff-62b2-4e5e-8750-4a50be196767</MessageId>
+  <Message>Zavolání úspěšné</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-08T15:13:11.6428702+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>396204ac-ab0c-441d-9f85-9b1aa4118dbc</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-08T15:18:08.8839659+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>fa2f1934-af2c-4854-b694-82ad4dcf84a7</MessageId>
+  <Message>Zavolání úspěšné</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-08T15:18:11.2985893+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>f2402bd1-d1e7-4233-af17-c2153e5df474</MessageId>
+  <Message>Getting objects - Length: 20</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-08T15:18:49.105727+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>4fc9bd8c-e149-4d7a-a3b5-d91f60c62b89</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-08T15:18:49.1177409+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>c29364c6-0dd8-41e4-be75-fdff8fe73a0b</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-08T15:31:24.8060957+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>d9eb86e0-e0f8-48c8-98a6-35d8b2602b50</MessageId>
+  <Message>Zavolání úspěšné</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-08T15:31:27.2260201+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>a7696cff-6b18-4757-b745-aa9a86afb29e</MessageId>
+  <Message>Getting objects - Length: 20</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-08T15:32:38.5680708+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>b1afc77a-a64a-4b60-b934-f9ba57bd736e</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-08T15:32:38.572075+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>53a907e3-e899-42c8-b3ba-850c93420955</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T09:48:40.8648186+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>23b79af4-c3c1-427f-8b1f-4c6b6f3571f7</MessageId>
+  <Message>Zavolání úspěšné</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T09:48:43.2811468+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>65165310-d312-4daf-8be5-fc4629bf38e4</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T09:50:05.996884+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>cf842a10-04a2-4f8c-ba95-5e0a8383ada4</MessageId>
+  <Message>Zavolání úspěšné</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T09:50:08.3972325+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>e5b68480-1023-4117-9074-367328332271</MessageId>
+  <Message>Getting objects - Length: 20</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T09:50:34.7426812+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>ef6549b1-c85e-4c29-883f-daa7a3b6e393</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T09:50:34.7456849+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>093c9bf2-02c2-4aa3-8146-3a38e02ab5b8</MessageId>
+  <Message>Getting objects - Length: 20</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T09:51:04.8066979+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>fa53ed03-01db-42ac-9b1e-8ae252283f06</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T09:51:04.8107016+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>e6f06ae4-a6ad-4bbd-aff7-82080ba89af6</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T10:01:56.625154+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>2b2abe5f-9ec7-4139-8697-1dcd5678d28a</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T10:36:06.3201519+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>2acd74f4-f831-48b0-8a0a-f42fdea20d12</MessageId>
+  <Message>Zavolání úspěšné</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T10:36:08.7101836+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>cabbf94b-8acd-4cb2-af87-1855e0f01b2a</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T10:51:00.1819476+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>af33b34d-ba47-4aca-9d19-b22fe65d996a</MessageId>
+  <Message>Zavolání úspěšné</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T10:51:02.5920094+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>1ef18557-1833-4b98-8a72-5a78ba158815</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T10:53:56.5862895+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>fe55e0da-3092-4b48-8778-27fddd1608a4</MessageId>
+  <Message>Zavolání úspěšné</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T10:53:58.9887081+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>27072f96-7365-4fa7-8e73-6be72dd2e073</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T10:57:38.3210868+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>8f7c24c5-3b12-41af-a06a-180f43468be8</MessageId>
+  <Message>Zavolání úspěšné</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T10:57:40.7215856+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>fc2b5fcd-5ed4-4792-9e79-83c67e9d9d4b</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T11:04:05.3246026+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>6fc30169-cb14-4016-9f9c-c87eb231b124</MessageId>
+  <Message>Zavolání úspěšné</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T11:04:07.7078057+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>3f2b96af-403d-487e-b4ce-602781ccfeb2</MessageId>
+  <Message>Uvedená struktura musí být přímo přenositelná nebo musí obsahovat informace o rozložení.
+Název parametru: structure</Message>
+  <Exception>
+    <Message>Uvedená struktura musí být přímo přenositelná nebo musí obsahovat informace o rozložení.
+Název parametru: structure</Message>
+    <StackTrace>   v System.Runtime.InteropServices.Marshal.PtrToStructureHelper(IntPtr ptr, Object structure, Boolean allowValueClasses)
+   v System.Runtime.InteropServices.Marshal.PtrToStructure(IntPtr ptr, Type structureType)
+   v Netificator.Business.Helpers.SerializeHelper.MarshalToObject(Byte[] bytes) v c:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.Business\Helpers\SerializeHelper.cs:řádek 61
+   v Netificator.Business.Model.STUNMessageHeader..ctor(Byte[] bytes) v c:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.Business\Model\STUNMessageHeader.cs:řádek 45
+   v Netificator.Business.Model.UDPServer.ReceiveActionMethod(UdpClient socket) v c:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.Business\Model\UDPServer.cs:řádek 82</StackTrace>
+  </Exception>
+  <Severity>Error</Severity>
+  <DateAddedAtUser>2015-09-09T11:06:36.6856573+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>c13c6948-3c15-4ff9-9e72-78b4117ee99b</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T11:06:36.6871599+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>69a6940f-734d-4342-b31b-86bfe75a1a6b</MessageId>
+  <Message>Uvedená struktura musí být přímo přenositelná nebo musí obsahovat informace o rozložení.
+Název parametru: structure</Message>
+  <Exception>
+    <Message>Uvedená struktura musí být přímo přenositelná nebo musí obsahovat informace o rozložení.
+Název parametru: structure</Message>
+    <StackTrace>   v System.Runtime.InteropServices.Marshal.PtrToStructureHelper(IntPtr ptr, Object structure, Boolean allowValueClasses)
+   v System.Runtime.InteropServices.Marshal.PtrToStructure(IntPtr ptr, Type structureType)
+   v Netificator.Business.Helpers.SerializeHelper.MarshalToObject(Byte[] bytes) v c:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.Business\Helpers\SerializeHelper.cs:řádek 61
+   v Netificator.Business.Model.STUNMessageHeader..ctor(Byte[] bytes) v c:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.Business\Model\STUNMessageHeader.cs:řádek 45
+   v Netificator.Business.Model.UDPServer.ReceiveActionMethod(UdpClient socket) v c:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.Business\Model\UDPServer.cs:řádek 82</StackTrace>
+  </Exception>
+  <Severity>Error</Severity>
+  <DateAddedAtUser>2015-09-09T11:07:25.0720987+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>0cdac404-5698-4372-9e41-0e1a9266be25</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T11:07:25.0720987+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>dcb26d39-a9d3-4ee9-a4f9-eb34523b15d8</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T11:09:28.8026759+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>86238ca5-5e7a-40e5-ae73-c76ca02e1b4d</MessageId>
+  <Message>Zavolání úspěšné</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T11:09:31.2026592+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>ddd8e970-ba5a-486d-9b33-86b186e8d013</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T11:12:00.5320757+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>2e0b86db-bed2-4ba8-a30a-b16a504f5912</MessageId>
+  <Message>Zavolání úspěšné</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T11:12:02.9358739+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>02cffd54-4dbd-4afd-9163-f120e7539f69</MessageId>
+  <Message>Uvedená struktura musí být přímo přenositelná nebo musí obsahovat informace o rozložení.
+Název parametru: structure</Message>
+  <Exception>
+    <Message>Uvedená struktura musí být přímo přenositelná nebo musí obsahovat informace o rozložení.
+Název parametru: structure</Message>
+    <StackTrace>   v System.Runtime.InteropServices.Marshal.PtrToStructureHelper(IntPtr ptr, Object structure, Boolean allowValueClasses)
+   v System.Runtime.InteropServices.Marshal.PtrToStructure(IntPtr ptr, Type structureType)
+   v Netificator.Business.Helpers.SerializeHelper.MarshalToObject(Byte[] bytes) v c:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.Business\Helpers\SerializeHelper.cs:řádek 61
+   v Netificator.Business.Model.STUNMessageHeader..ctor(Byte[] bytes) v c:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.Business\Model\STUNMessageHeader.cs:řádek 45
+   v Netificator.Business.Model.UDPServer.ReceiveActionMethod(UdpClient socket) v c:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.Business\Model\UDPServer.cs:řádek 82</StackTrace>
+  </Exception>
+  <Severity>Error</Severity>
+  <DateAddedAtUser>2015-09-09T11:12:33.395229+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>6c086c96-55f9-4957-a34f-3677c85eeeb0</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T11:12:33.3997362+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>e2b7154c-7a02-43ae-84e2-5457f5e0e1b3</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T11:17:17.6364088+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>8bddf02a-4004-471d-b756-c1a98a37d1b6</MessageId>
+  <Message>Zavolání úspěšné</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T11:17:20.0559447+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>6ca6bd46-ab7d-47d0-9c50-d6496c990dc8</MessageId>
+  <Message>Magic Cookie has wrong value</Message>
+  <Exception>
+    <Message>Magic Cookie has wrong value</Message>
+    <StackTrace>   v Netificator.Business.Model.STUNMessageHeader..ctor(Byte[] bytes) v c:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.Business\Model\STUNMessageHeader.cs:řádek 55
+   v Netificator.Business.Model.UDPServer.ReceiveActionMethod(UdpClient socket) v c:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.Business\Model\UDPServer.cs:řádek 82</StackTrace>
+  </Exception>
+  <Severity>Error</Severity>
+  <DateAddedAtUser>2015-09-09T11:18:23.0738526+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>5a7b27cc-4905-42aa-8756-c7190ba1ca3b</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T11:18:23.0778568+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>2694e812-739a-45f7-969e-4f9baed31192</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T11:40:26.0260305+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>8869c303-324e-484b-8211-49e23583d730</MessageId>
+  <Message>Zavolání úspěšné</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T11:40:28.448626+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>d8c6988d-7eca-4532-9ca4-d108d583309b</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T11:43:18.8955538+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>9321ab48-0ad3-4d8f-aac4-b81be7bc8995</MessageId>
+  <Message>Zavolání úspěšné</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T11:43:21.2896497+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>4374c660-0f63-49e6-96d6-b6f8446ffd89</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T11:55:16.7088519+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>0471ee45-099a-4eac-9d57-cccb376f4032</MessageId>
+  <Message>Zavolání úspěšné</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T11:55:19.1265573+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>77c5f743-ed6a-46a9-9aae-4008fd83bcb5</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T11:59:41.3750731+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>a5fb48ff-3ac1-49db-95ae-185253313d6d</MessageId>
+  <Message>Zavolání úspěšné</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T11:59:43.8163772+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>9bc89bc8-8726-4a3e-93c1-9be1b16eec3c</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T12:08:04.97679+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>72b42aa5-32f3-497d-8709-a71ddb344b16</MessageId>
+  <Message>Zavolání úspěšné</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T12:08:07.4427844+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>49ad51f7-8b31-43e6-ae71-ee8620840a10</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T12:09:25.3623783+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>cbdd3ba9-1601-42be-8e24-eaa0bae0b63f</MessageId>
+  <Message>Zavolání úspěšné</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T12:09:27.7808101+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>15f3e18a-3fd4-4fb6-afde-b6478321a079</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T12:12:32.3191243+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>aec176ad-7589-40b3-9a53-82512ad75d15</MessageId>
+  <Message>Zavolání úspěšné</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T12:12:34.7200801+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>67c6268a-1a93-4ac8-bb82-728ad8ee6098</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T12:13:52.0187186+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>6b80a5d3-8da7-4577-876b-6dc06f97fe08</MessageId>
+  <Message>Zavolání úspěšné</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T12:13:54.4756393+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>5d5b9222-d6f4-40b6-bd3f-aaa8977c7d33</MessageId>
+  <Message>Getting objects - Length: 34</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T12:15:25.0839624+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>da3baa3e-07b3-4bb1-a8d8-17968831af49</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T12:15:25.089969+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>1c8ab75a-ae57-4ce2-8e90-57c21cc7826c</MessageId>
+  <Message>Getting objects - Length: 34</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T12:18:08.5232234+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>7c001e1f-16c8-4daa-b3ac-427f5a659c64</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T12:18:08.5272077+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>34a7a4d6-e848-48ef-aea1-fd3bbb338c62</MessageId>
+  <Message>Getting objects - Length: 34</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T12:18:11.5992525+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>4741be6e-9025-4ed8-bd2c-bac02912f92c</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T12:18:11.6052601+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>095699ee-cca5-495c-810b-78e894741ffd</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T12:27:12.8480733+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>5ab1d8ff-f908-4dd0-87a4-50ec7125885a</MessageId>
+  <Message>Zavolání úspěšné</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T12:27:15.2880983+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>879d97a0-57e0-4b5e-9023-fb0639e9afdd</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T12:29:34.9738721+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>04b35ba8-c9c9-4505-90ff-e00b1d3d8b2e</MessageId>
+  <Message>Zavolání úspěšné</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T12:29:37.3959764+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>42651e63-2f03-42ee-a543-d5616f2373ba</MessageId>
+  <Message>Getting objects - Length: 34</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T12:30:35.0850757+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>12d5cca8-f7af-4e8a-9916-0746c44bbf3a</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T12:30:35.0900801+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>bc48676f-6df9-4cd4-a96e-0514ed4f1d04</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T12:33:24.9040662+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>ffb7ca3e-2d86-4def-b7ba-d860762bc569</MessageId>
+  <Message>Zavolání úspěšné</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T12:33:27.3290461+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>bb49db72-e73a-45fe-adbb-fc2b112e8766</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T12:35:39.9838044+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>e4123b23-e41e-491b-ba1d-3e8a44061d54</MessageId>
+  <Message>Zavolání úspěšné</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T12:35:42.3926297+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>06171b6c-1be2-445c-80c3-31fc56ce3881</MessageId>
+  <Message>Getting objects - Length: 32</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T12:37:01.4774825+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>f73582cf-9841-4d9a-ad1d-cee164bd180c</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T12:37:03.7237346+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>3539682e-241a-4292-bf18-26386b0d769b</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T13:07:44.7872039+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>b5494274-cc8c-4b6c-aaa2-e7f59750f31e</MessageId>
+  <Message>Zavolání úspěšné</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T13:07:47.2223478+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>1ef80aba-6664-4d6c-9dc6-dcda5848b366</MessageId>
+  <Message>Odkaz na objekt není nastaven na instanci objektu.</Message>
+  <Exception>
+    <Message>Odkaz na objekt není nastaven na instanci objektu.</Message>
+    <StackTrace>   v Netificator.Business.Model.UDPServer.ReceiveActionMethod(UdpClient socket) v c:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.Business\Model\UDPServer.cs:řádek 83</StackTrace>
+  </Exception>
+  <Severity>Error</Severity>
+  <DateAddedAtUser>2015-09-09T13:08:09.2500857+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>287d58a5-3240-413d-854c-9b45d7c9400f</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T13:08:09.2540893+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>86b92003-2233-44b7-97f1-5c139c0bb4b2</MessageId>
+  <Message>Odkaz na objekt není nastaven na instanci objektu.</Message>
+  <Exception>
+    <Message>Odkaz na objekt není nastaven na instanci objektu.</Message>
+    <StackTrace>   v Netificator.Business.Model.UDPServer.ReceiveActionMethod(UdpClient socket) v c:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.Business\Model\UDPServer.cs:řádek 83</StackTrace>
+  </Exception>
+  <Severity>Error</Severity>
+  <DateAddedAtUser>2015-09-09T13:08:48.4947282+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>f2e87dc1-6e2a-45c5-8f5a-c01fbfc335fa</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T13:08:48.4987318+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>c564f750-587c-4aa4-800e-152f6f571b78</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T13:23:29.7997004+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>d074d522-202c-4daf-8ef0-dc09964aeab0</MessageId>
+  <Message>Zavolání úspěšné</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T13:23:32.1995835+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>34954df0-a34f-4c23-a608-efab06c5860b</MessageId>
+  <Message>Getting objects - Length: 20</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T13:23:42.008613+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>4c865390-9607-47f0-991a-be2fa97162b4</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T13:23:42.008613+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>66c9481c-ace1-4798-a93c-edfed4e28740</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T13:39:40.939256+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>8931b0fb-7e9d-4a2e-8801-42eea8145ffe</MessageId>
+  <Message>Zavolání úspěšné</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T13:39:43.3873097+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>557e405d-fafc-4d68-be0d-8ef91c2601b6</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T13:42:25.4377777+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>01d20152-e130-475d-bc37-dc89a9077dbc</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T13:42:56.8256571+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>f01e266e-6e47-4f5b-8469-29d11cca9df0</MessageId>
+  <Message>Zavolání úspěšné</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T13:42:59.2313126+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>4591f16d-b5d0-4f6f-99f1-86fd29a4a5c8</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T13:43:51.793075+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>b3fb2323-c90c-4b7a-a6f4-708c984f8f13</MessageId>
+  <Message>Zavolání úspěšné</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T13:43:54.1927749+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>0338ac67-b0ee-4f8c-80fd-55df6ad2dd16</MessageId>
+  <Message>Getting objects - Length: 20</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T13:45:04.5621739+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>5f5148dc-9fa3-452d-8271-99106a86fd6c</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T13:45:04.5621739+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>baab638c-72b7-451b-8894-77e3d56ffed4</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T13:58:30.6897764+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>2ed41cd2-9296-4dc1-b39b-2e1036415026</MessageId>
+  <Message>Zavolání úspěšné</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T13:58:33.0900269+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>f31453da-2037-45c9-b270-885fe19544f0</MessageId>
+  <Message>Getting objects - Length: 20</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T13:59:16.4667932+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>fe3a016e-769a-4ec9-b3f8-1416f646e014</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-09T13:59:16.4667932+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>00f5bd91-5009-4671-8705-127f1a72ce82</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-10T08:04:56.3584755+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>3a8197a7-4e9d-48af-abdb-f32500d4e599</MessageId>
+  <Message>Zavolání úspěšné</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-10T08:04:58.7573805+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>c539de27-a2b9-4476-aca5-d2d9c1a0c64e</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-10T08:06:52.4918486+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>668465be-1a85-4dbf-b04e-0ab58bfc3d3a</MessageId>
+  <Message>Zavolání úspěšné</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-10T08:06:55.0240993+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>32cb144c-3bfd-42b3-8cbc-8779fb7e348a</MessageId>
+  <Message>Zdrojové pole nebylo dostatečně dlouhé. Zkontrolujte index srcIndex, délku a dolní meze pole.</Message>
+  <Exception>
+    <Message>Zdrojové pole nebylo dostatečně dlouhé. Zkontrolujte index srcIndex, délku a dolní meze pole.</Message>
+    <StackTrace>   v System.Array.Copy(Array sourceArray, Int32 sourceIndex, Array destinationArray, Int32 destinationIndex, Int32 length, Boolean reliable)
+   v System.Array.Copy(Array sourceArray, Int32 sourceIndex, Array destinationArray, Int32 destinationIndex, Int32 length)
+   v Netificator.Business.Model.STUNMessageHeader..ctor(Byte[] bytes) v c:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.Business\Model\STUNMessageHeader.cs:řádek 67
+   v Netificator.Business.Model.STUNMessage..ctor(Byte[] bytes) v c:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.Business\Model\STUNMessage.cs:řádek 36
+   v Netificator.Business.Model.UDPServer.ReceiveActionMethod(UdpClient socket) v c:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.Business\Model\UDPServer.cs:řádek 82</StackTrace>
+  </Exception>
+  <Severity>Error</Severity>
+  <DateAddedAtUser>2015-09-10T08:07:01.8688408+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>d16e47c7-5ab7-47fd-b993-11f5b47a4433</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-10T08:07:01.8738454+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>75bb067f-41b6-46af-8711-062c45f27da6</MessageId>
+  <Message>Zdrojové pole nebylo dostatečně dlouhé. Zkontrolujte index srcIndex, délku a dolní meze pole.</Message>
+  <Exception>
+    <Message>Zdrojové pole nebylo dostatečně dlouhé. Zkontrolujte index srcIndex, délku a dolní meze pole.</Message>
+    <StackTrace>   v System.Array.Copy(Array sourceArray, Int32 sourceIndex, Array destinationArray, Int32 destinationIndex, Int32 length, Boolean reliable)
+   v System.Array.Copy(Array sourceArray, Int32 sourceIndex, Array destinationArray, Int32 destinationIndex, Int32 length)
+   v Netificator.Business.Model.STUNMessageHeader..ctor(Byte[] bytes) v c:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.Business\Model\STUNMessageHeader.cs:řádek 67
+   v Netificator.Business.Model.STUNMessage..ctor(Byte[] bytes) v c:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.Business\Model\STUNMessage.cs:řádek 36
+   v Netificator.Business.Model.UDPServer.ReceiveActionMethod(UdpClient socket) v c:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.Business\Model\UDPServer.cs:řádek 82</StackTrace>
+  </Exception>
+  <Severity>Error</Severity>
+  <DateAddedAtUser>2015-09-10T08:42:45.4295316+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>3984678f-d5eb-4b1d-848f-8445790105a7</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-10T08:42:45.4345369+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>7ec3934a-de3d-4a13-bf59-e333bdf62ba6</MessageId>
+  <Message>Zdrojové pole nebylo dostatečně dlouhé. Zkontrolujte index srcIndex, délku a dolní meze pole.</Message>
+  <Exception>
+    <Message>Zdrojové pole nebylo dostatečně dlouhé. Zkontrolujte index srcIndex, délku a dolní meze pole.</Message>
+    <StackTrace>   v System.Array.Copy(Array sourceArray, Int32 sourceIndex, Array destinationArray, Int32 destinationIndex, Int32 length, Boolean reliable)
+   v System.Array.Copy(Array sourceArray, Int32 sourceIndex, Array destinationArray, Int32 destinationIndex, Int32 length)
+   v Netificator.Business.Model.STUNMessageHeader..ctor(Byte[] bytes) v c:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.Business\Model\STUNMessageHeader.cs:řádek 67
+   v Netificator.Business.Model.STUNMessage..ctor(Byte[] bytes) v c:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.Business\Model\STUNMessage.cs:řádek 36
+   v Netificator.Business.Model.UDPServer.ReceiveActionMethod(UdpClient socket) v c:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.Business\Model\UDPServer.cs:řádek 82</StackTrace>
+  </Exception>
+  <Severity>Error</Severity>
+  <DateAddedAtUser>2015-09-10T08:44:10.8335036+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>3689ded1-27cf-4f5d-b92b-c71ee35a5ad9</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-10T08:44:10.8385083+02:00</DateAddedAtUser>
+</LogMessage>

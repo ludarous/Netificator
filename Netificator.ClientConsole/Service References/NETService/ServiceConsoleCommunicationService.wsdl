@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="Netificator.CommunicationService" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" targetNamespace="Netificator.CommunicationService" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="Netificator.CommunicationService/Imports">
+      <xsd:import schemaLocation="http://localhost:6483/ServiceConsoleCommunicationService?xsd=xsd0" namespace="Netificator.CommunicationService" />
+      <xsd:import schemaLocation="http://localhost:6483/ServiceConsoleCommunicationService?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="ServiceConsoleCommunicationService_SendMessageToConsole_InputMessage">
+    <wsdl:part name="parameters" element="tns:SendMessageToConsole" />
+  </wsdl:message>
+  <wsdl:message name="ServiceConsoleCommunicationService_SendMessageToConsole_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SendMessageToConsoleResponse" />
+  </wsdl:message>
+  <wsdl:message name="ServiceConsoleCommunicationService_JoinConsole_InputMessage">
+    <wsdl:part name="parameters" element="tns:JoinConsole" />
+  </wsdl:message>
+  <wsdl:message name="ServiceConsoleCommunicationService_JoinConsole_OutputMessage">
+    <wsdl:part name="parameters" element="tns:JoinConsoleResponse" />
+  </wsdl:message>
+  <wsdl:message name="ServiceConsoleCommunicationService_JoinService_InputMessage">
+    <wsdl:part name="parameters" element="tns:JoinService" />
+  </wsdl:message>
+  <wsdl:message name="ServiceConsoleCommunicationService_JoinService_OutputMessage">
+    <wsdl:part name="parameters" element="tns:JoinServiceResponse" />
+  </wsdl:message>
+  <wsdl:message name="ServiceConsoleCommunicationService_NotifyServiceConsoleJoinedTheService_OutputCallbackMessage">
+    <wsdl:part name="parameters" element="tns:NotifyServiceConsoleJoinedTheService" />
+  </wsdl:message>
+  <wsdl:message name="ServiceConsoleCommunicationService_NotifyServiceConsoleJoinedTheService_InputCallbackMessage">
+    <wsdl:part name="parameters" element="tns:NotifyServiceConsoleJoinedTheServiceResponse" />
+  </wsdl:message>
+  <wsdl:message name="ServiceConsoleCommunicationService_NotifyService_ConsoleConnected_OutputCallbackMessage">
+    <wsdl:part name="parameters" element="tns:NotifyService_ConsoleConnected" />
+  </wsdl:message>
+  <wsdl:message name="ServiceConsoleCommunicationService_NotifyService_ConsoleConnected_InputCallbackMessage">
+    <wsdl:part name="parameters" element="tns:NotifyService_ConsoleConnectedResponse" />
+  </wsdl:message>
+  <wsdl:message name="ServiceConsoleCommunicationService_NotifyMessage_OutputCallbackMessage">
+    <wsdl:part name="parameters" element="tns:NotifyMessage" />
+  </wsdl:message>
+  <wsdl:message name="ServiceConsoleCommunicationService_NotifyMessage_InputCallbackMessage">
+    <wsdl:part name="parameters" element="tns:NotifyMessageResponse" />
+  </wsdl:message>
+  <wsdl:portType msc:usingSession="true" name="ServiceConsoleCommunicationService">
+    <wsdl:operation msc:isInitiating="true" msc:isTerminating="false" name="SendMessageToConsole">
+      <wsdl:input wsaw:Action="Netificator.CommunicationService/ServiceConsoleCommunicationService/SendMessageToConsole" message="tns:ServiceConsoleCommunicationService_SendMessageToConsole_InputMessage" />
+      <wsdl:output wsaw:Action="Netificator.CommunicationService/ServiceConsoleCommunicationService/SendMessageToConsoleResponse" message="tns:ServiceConsoleCommunicationService_SendMessageToConsole_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation msc:isInitiating="true" msc:isTerminating="false" name="JoinConsole">
+      <wsdl:input wsaw:Action="Netificator.CommunicationService/ServiceConsoleCommunicationService/JoinConsole" message="tns:ServiceConsoleCommunicationService_JoinConsole_InputMessage" />
+      <wsdl:output wsaw:Action="Netificator.CommunicationService/ServiceConsoleCommunicationService/JoinConsoleResponse" message="tns:ServiceConsoleCommunicationService_JoinConsole_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation msc:isInitiating="true" msc:isTerminating="false" name="JoinService">
+      <wsdl:input wsaw:Action="Netificator.CommunicationService/ServiceConsoleCommunicationService/JoinService" message="tns:ServiceConsoleCommunicationService_JoinService_InputMessage" />
+      <wsdl:output wsaw:Action="Netificator.CommunicationService/ServiceConsoleCommunicationService/JoinServiceResponse" message="tns:ServiceConsoleCommunicationService_JoinService_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation msc:isInitiating="true" msc:isTerminating="false" name="NotifyServiceConsoleJoinedTheService">
+      <wsdl:output wsaw:Action="Netificator.CommunicationService/ServiceConsoleCommunicationService/NotifyServiceConsoleJoinedTheService" message="tns:ServiceConsoleCommunicationService_NotifyServiceConsoleJoinedTheService_OutputCallbackMessage" />
+      <wsdl:input wsaw:Action="Netificator.CommunicationService/ServiceConsoleCommunicationService/NotifyServiceConsoleJoinedTheServiceResponse" message="tns:ServiceConsoleCommunicationService_NotifyServiceConsoleJoinedTheService_InputCallbackMessage" />
+    </wsdl:operation>
+    <wsdl:operation msc:isInitiating="true" msc:isTerminating="false" name="NotifyService_ConsoleConnected">
+      <wsdl:output wsaw:Action="Netificator.CommunicationService/ServiceConsoleCommunicationService/NotifyService_ConsoleConnected" message="tns:ServiceConsoleCommunicationService_NotifyService_ConsoleConnected_OutputCallbackMessage" />
+      <wsdl:input wsaw:Action="Netificator.CommunicationService/ServiceConsoleCommunicationService/NotifyService_ConsoleConnectedResponse" message="tns:ServiceConsoleCommunicationService_NotifyService_ConsoleConnected_InputCallbackMessage" />
+    </wsdl:operation>
+    <wsdl:operation msc:isInitiating="true" msc:isTerminating="false" name="NotifyMessage">
+      <wsdl:output wsaw:Action="Netificator.CommunicationService/ServiceConsoleCommunicationService/NotifyMessage" message="tns:ServiceConsoleCommunicationService_NotifyMessage_OutputCallbackMessage" />
+      <wsdl:input wsaw:Action="Netificator.CommunicationService/ServiceConsoleCommunicationService/NotifyMessageResponse" message="tns:ServiceConsoleCommunicationService_NotifyMessage_InputCallbackMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+</wsdl:definitions>

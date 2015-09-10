@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>4d2aea43-f561-489c-9a76-200c61cf2ccb</MessageId>
+  <Message>Odkaz na objekt není nastaven na instanci objektu.</Message>
+  <Exception>
+    <Message>Odkaz na objekt není nastaven na instanci objektu.</Message>
+    <StackTrace>   v Netificator.Service.Model.UDPServer.ReceiveActionMethod(UdpClient socket) v c:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.Service\Model\UDPServer.cs:řádek 72</StackTrace>
+  </Exception>
+  <Severity>Error</Severity>
+  <DateAddedAtUser>2015-09-08T11:53:54.894111+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>0a516f76-cb3c-4af7-996e-6ae09a226576</MessageId>
+  <Message>Odkaz na objekt není nastaven na instanci objektu.</Message>
+  <Exception>
+    <Message>Odkaz na objekt není nastaven na instanci objektu.</Message>
+    <StackTrace>   v Netificator.Service.Model.UDPServer.ReceiveActionMethod(UdpClient socket) v c:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.Service\Model\UDPServer.cs:řádek 72</StackTrace>
+  </Exception>
+  <Severity>Error</Severity>
+  <DateAddedAtUser>2015-09-08T11:57:13.3138066+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>1131e52d-1cad-4774-8db4-f1095db6e61f</MessageId>
+  <Message>Odkaz na objekt není nastaven na instanci objektu.</Message>
+  <Exception>
+    <Message>Odkaz na objekt není nastaven na instanci objektu.</Message>
+    <StackTrace>   v Netificator.Service.Model.UDPServer.ReceiveActionMethod(UdpClient socket) v c:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.Service\Model\UDPServer.cs:řádek 72</StackTrace>
+  </Exception>
+  <Severity>Error</Severity>
+  <DateAddedAtUser>2015-09-08T11:58:49.0776848+02:00</DateAddedAtUser>
+</LogMessage>

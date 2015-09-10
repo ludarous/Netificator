@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>652782ac-adee-4bef-b3f0-2e4a9ba169bc</MessageId>
+  <Message>Zavolání úspěšné</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-08T12:37:02.4559417+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>9b12645c-eb58-4582-92d6-d62211dfe1b9</MessageId>
+  <Message>Zavolání úspěšné</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-08T12:41:01.9328049+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>70b7c35a-2e5d-4d19-a9c0-9d29509a933a</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-08T14:57:09.4972413+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>23274cfb-4b33-47d3-89f4-35f97bb8db2b</MessageId>
+  <Message>Zavolání úspěšné</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-08T14:57:11.9189642+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>993e06b4-a2e6-4676-8292-c657634bdf9b</MessageId>
+  <Message>Magic Cookie has wrong value</Message>
+  <Exception>
+    <Message>Magic Cookie has wrong value</Message>
+    <StackTrace>   v Netificator.Business.Model.STUNMessageHeader..ctor(Byte[] bytes) v c:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.Business\Model\STUNMessageHeader.cs:řádek 55
+   v Netificator.Business.Model.UDPServer.ReceiveActionMethod(UdpClient socket) v c:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.Business\Model\UDPServer.cs:řádek 82</StackTrace>
+  </Exception>
+  <Severity>Error</Severity>
+  <DateAddedAtUser>2015-09-08T14:58:12.3417294+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>17680d77-911d-486e-b3fe-308978f197c6</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-08T14:58:12.3467344+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>8f6c04a1-cbda-4dc9-9ed3-7634424cd72c</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-08T14:58:29.1070378+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>eec4eac9-5d52-498b-8e9c-711469d1a827</MessageId>
+  <Message>Zavolání úspěšné</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-08T14:58:31.532754+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>3c18e16e-28be-4c97-86c2-51af4807ae6d</MessageId>
+  <Message>Magic Cookie has wrong value</Message>
+  <Exception>
+    <Message>Magic Cookie has wrong value</Message>
+    <StackTrace>   v Netificator.Business.Model.STUNMessageHeader..ctor(Byte[] bytes) v c:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.Business\Model\STUNMessageHeader.cs:řádek 55
+   v Netificator.Business.Model.UDPServer.ReceiveActionMethod(UdpClient socket) v c:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.Business\Model\UDPServer.cs:řádek 82</StackTrace>
+  </Exception>
+  <Severity>Error</Severity>
+  <DateAddedAtUser>2015-09-08T14:59:29.4338958+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>96cf52fa-9c7b-4b08-8579-416a5e865b54</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-08T14:59:29.4414639+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>efa517ec-583c-47d6-9333-0c12e6d7c45d</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-08T15:02:08.4487053+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>629a1a73-7bd4-465f-bcbd-2dbe6304f48d</MessageId>
+  <Message>Zavolání úspěšné</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-08T15:02:10.8472543+02:00</DateAddedAtUser>
+</LogMessage>

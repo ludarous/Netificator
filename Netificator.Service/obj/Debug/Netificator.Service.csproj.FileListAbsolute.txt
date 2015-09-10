@@ -1,0 +1,16 @@
+C:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.Service\bin\Debug\Netificator.Service.exe.config
+C:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.Service\obj\Debug\Netificator.Service.csprojResolveAssemblyReference.cache
+C:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.Service\bin\Debug\Netificator.Service.exe
+C:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.Service\bin\Debug\Netificator.Service.pdb
+C:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.Service\bin\Debug\Netificator.CommunicationService.dll
+C:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.Service\bin\Debug\Netificator.CommunicationService.pdb
+C:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.Service\obj\Debug\Netificator.Service.exe
+C:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.Service\obj\Debug\Netificator.Service.pdb
+C:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.Service\obj\Debug\Netificator.Service.ServiceInstaller.resources
+C:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.Service\obj\Debug\Netificator.Service.csproj.GenerateResource.Cache
+C:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.Service\bin\Debug\Netificator.LogService.dll
+C:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.Service\bin\Debug\Netificator.LogService.pdb
+C:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.Service\bin\Debug\Netificator.Business.dll
+C:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.Service\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.Service\bin\Debug\Netificator.Business.pdb
+C:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.Service\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,5 @@
+C:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.LogService\bin\Debug\Netificator.LogService.dll
+C:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.LogService\bin\Debug\Netificator.LogService.pdb
+C:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.LogService\obj\Debug\Netificator.LogService.csprojResolveAssemblyReference.cache
+C:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.LogService\obj\Debug\Netificator.LogService.dll
+C:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.LogService\obj\Debug\Netificator.LogService.pdb

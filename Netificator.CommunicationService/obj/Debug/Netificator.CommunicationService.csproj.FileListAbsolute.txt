@@ -1,0 +1,7 @@
+C:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.CommunicationService\bin\Debug\Netificator.CommunicationService.dll
+C:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.CommunicationService\bin\Debug\Netificator.CommunicationService.pdb
+C:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.CommunicationService\obj\Debug\Netificator.CommunicationService.dll
+C:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.CommunicationService\obj\Debug\Netificator.CommunicationService.pdb
+C:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.CommunicationService\obj\Debug\Netificator.CommunicationService.csprojResolveAssemblyReference.cache
+C:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.CommunicationService\bin\Debug\Netificator.LogService.dll
+C:\Users\Luděk\Documents\Visual Studio 2012\Projects\Netificator\Netificator.CommunicationService\bin\Debug\Netificator.LogService.pdb

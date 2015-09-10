@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>4da03a04-b530-4fb2-b5cd-4f85e2d1b328</MessageId>
+  <Message>Service started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-08T13:51:16.585915+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>2dc3bd36-6702-4f9a-8f86-94b1d9bcdd04</MessageId>
+  <Message>Zavolání úspěšné</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-08T13:51:34.1978207+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>b1cfe641-4a12-4512-8055-a02919ea968f</MessageId>
+  <Message>Getting objects - Length: 20</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-08T13:51:42.422413+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>50710c6f-eea9-4017-b4d6-7a728650638d</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-08T13:51:42.4378949+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>078404f1-c045-4bf3-b93b-a3b6b903d206</MessageId>
+  <Message>Getting objects - Length: 20</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-08T13:52:21.645149+02:00</DateAddedAtUser>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MessageId>00791583-b0ce-4644-abaf-a35ba20c0d51</MessageId>
+  <Message>Receiving started</Message>
+  <Severity>Information</Severity>
+  <DateAddedAtUser>2015-09-08T13:52:21.6641672+02:00</DateAddedAtUser>
+</LogMessage>

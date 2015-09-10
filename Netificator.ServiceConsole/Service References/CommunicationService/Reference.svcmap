@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="a72d92cf-a416-48db-84f9-abaf13722323" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:6483/ServiceConsoleCommunicationService" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ServiceConsoleCommunicationService.disco" MetadataType="Disco" ID="466b67cc-addc-426e-9402-b0365dfc41f8" SourceId="1" SourceUrl="http://localhost:6483/ServiceConsoleCommunicationService?disco" />
+    <MetadataFile FileName="ServiceConsoleCommunicationService.xsd" MetadataType="Schema" ID="7d93956e-ef87-4751-aab1-ba0269ba01d6" SourceId="1" SourceUrl="http://localhost:6483/ServiceConsoleCommunicationService?xsd=xsd1" />
+    <MetadataFile FileName="ServiceConsoleCommunicationService.wsdl" MetadataType="Wsdl" ID="dc8a1644-ac80-4b3f-8557-227fb47389e9" SourceId="1" SourceUrl="http://localhost:6483/ServiceConsoleCommunicationService?wsdl=wsdl0" />
+    <MetadataFile FileName="ServiceConsoleCommunicationService1.wsdl" MetadataType="Wsdl" ID="d7ef39ad-8248-4d63-9095-55a8a784dd0b" SourceId="1" SourceUrl="http://localhost:6483/ServiceConsoleCommunicationService?wsdl" />
+    <MetadataFile FileName="ServiceConsoleCommunicationService1.xsd" MetadataType="Schema" ID="70db1285-a2f6-4bdb-8113-48f02f2019ad" SourceId="1" SourceUrl="http://localhost:6483/ServiceConsoleCommunicationService?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
