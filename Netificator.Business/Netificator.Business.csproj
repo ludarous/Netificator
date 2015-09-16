@@ -50,11 +50,13 @@
     <Compile Include="Helpers\EndpointHelper.cs" />
     <Compile Include="Helpers\SerializeHelper.cs" />
     <Compile Include="Interfaces\ISTUNSerializable.cs" />
+    <Compile Include="Model\AsynchronousSocket.cs" />
     <Compile Include="Model\Attributes\XorMappedAddress.cs" />
     <Compile Include="Model\Attributes\MappedAddress.cs" />
     <Compile Include="Model\EventArguments\ErrorOccurredEventArgs.cs" />
     <Compile Include="Model\EventArguments\MessageReceivedEventArgs.cs" />
     <Compile Include="Model\ITLVObject.cs" />
+    <Compile Include="Model\StateObject.cs" />
     <Compile Include="Model\STUNAttributeTLV.cs" />
     <Compile Include="Model\STUNMessage.cs" />
     <Compile Include="Model\STUNMessageHeader.cs" />

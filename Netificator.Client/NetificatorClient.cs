@@ -13,6 +13,7 @@ using System.Linq;
 using System.Net;
 using System.Net.Sockets;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace Netificator.Client
@@ -34,7 +35,12 @@ namespace Netificator.Client
         private IPEndPoint _localEndpoint;
         private IPEndPoint _remoteEndpoint;
 
+        private AsynchronousTcpSocket _tcpSocket;
+        private Socket _udpSocket;
+
         private UdpClient _client;
+        private TcpClient _tcpClient;
+
         private List<Socket> _P2PSockets = new List<Socket>();
 
 
@@ -64,7 +70,14 @@ namespace Netificator.Client
             IPHostEntry ipHostInfo = Dns.GetHostEntry(Defaults.HOST);
             _serverEndpoint = new IPEndPoint(ipHostInfo.AddressList[0], Defaults.UDP_PORT);
 
+
+            #region sockets
+            
+            _udpSocket = new Socket(SocketType.Dgram, ProtocolType.Udp);
+
+            #endregion
             _client = new UdpClient();
+            _tcpSocket = new AsynchronousTcpSocket();
         }
 
         public void SendBindingRequest()
@@ -76,9 +89,11 @@ namespace Netificator.Client
           
             // Connect the socket to the remote endpoint. Catch any errors.
             try
-            {
-                _client.Send(stunMessageBytes, stunMessageBytes.Length, _serverEndpoint);                
-                StartReceive(_client);
+            {            
+                _client.Send(stunMessageBytes, stunMessageBytes.Length, _serverEndpoint);
+                _tcpSocket.Connect(_serverEndpoint);   
+ 
+                StartReceiveUdp(_udpSocket);
             }
             catch (Exception ex)
             {
@@ -87,7 +102,7 @@ namespace Netificator.Client
             }
         }
 
-        private void StartReceive(UdpClient sender)
+        private void StartReceiveTcp(Socket sender)
         {
             Task.Run(() =>
             {
@@ -96,9 +111,9 @@ namespace Netificator.Client
                     try
                     {
                         IPEndPoint senderEndpoint = new IPEndPoint(IPAddress.Any, 0);
-                        byte[] bytes = sender.Receive(ref senderEndpoint);
+                        //byte[] bytes = sender.Receive(ref senderEndpoint);
 
-                        STUNMessage stunMessage = new STUNMessage(bytes);
+                        //STUNMessage stunMessage = new STUNMessage(bytes);
                     }
                     catch (Exception ex)
                     {
@@ -113,53 +128,34 @@ namespace Netificator.Client
 
         }
 
-        private void Send(Socket sender, object sendObject)
+        private void StartReceiveUdp(Socket sender)
         {
-            if (sendObject is RegisterRequest)
+            Task.Run(() =>
             {
-                byte[] sendBuffer = SerializeHelper.Serialize(sendObject, MessageTypes.RegistrationRequest);
-                sender.Send(sendBuffer);
-            }
-            if (sendObject is TextMessage)
-            {
-                byte[] sendBuffer = SerializeHelper.Serialize(sendObject, MessageTypes.TextMessage);
-                sender.Send(sendBuffer);
-            }
-            if (sendObject is DirectConnectRequest)
-            {
-                byte[] sendBuffer = SerializeHelper.Serialize(sendObject, MessageTypes.DirectConnectRequest);
-                sender.Send(sendBuffer);
-            }
-            if (sendObject is DirectConnectResponse)
-            {
-                byte[] sendBuffer = SerializeHelper.Serialize(sendObject, MessageTypes.DirectConnectResponse);
-                sender.Send(sendBuffer);
-            }
+                while (true)
+                {
+                    try
+                    {
+                        IPEndPoint senderEndpoint = new IPEndPoint(IPAddress.Any, 0);
+                        //byte[] bytes = sender.Receive(ref senderEndpoint);
+
+                        //STUNMessage stunMessage = new STUNMessage(bytes);
+                    }
+                    catch (Exception ex)
+                    {
+                        ErrorOccurredEventArgs args = new ErrorOccurredEventArgs();
+                        args.Exception = ex;
+                        if (ErrorOccurred != null) ErrorOccurred(this, args);
+                        Debug.WriteLine(ex.Message);
+                        break;
+                    }
+                }
+            });
+
         }
 
-        private void SendTo(Socket sender, EndPoint endpoint, object sendObject)
-        {
-            if (sendObject is RegisterRequest)
-            {
-                byte[] sendBuffer = SerializeHelper.Serialize(sendObject, MessageTypes.RegistrationRequest);
-                sender.SendTo(sendBuffer, endpoint);
-            }
-            if (sendObject is TextMessage)
-            {
-                byte[] sendBuffer = SerializeHelper.Serialize(sendObject, MessageTypes.TextMessage);
-                sender.SendTo(sendBuffer, endpoint);
-            }
-            if (sendObject is DirectConnectRequest)
-            {
-                byte[] sendBuffer = SerializeHelper.Serialize(sendObject, MessageTypes.DirectConnectRequest);
-                sender.SendTo(sendBuffer, endpoint);
-            }
-            if (sendObject is DirectConnectResponse)
-            {
-                byte[] sendBuffer = SerializeHelper.Serialize(sendObject, MessageTypes.DirectConnectResponse);
-                sender.SendTo(sendBuffer, endpoint);
-            }
-        }      
+        
+        
                
     }
 }

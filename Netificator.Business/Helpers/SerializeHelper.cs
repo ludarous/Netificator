@@ -50,6 +50,7 @@ namespace Netificator.Business.Helpers
             Marshal.Copy(ptr, bytes, 0, size);
             // Release unmanaged memory.
             Marshal.FreeHGlobal(ptr);
+            Array.Reverse(bytes);
             return bytes;
         }
 

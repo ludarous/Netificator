@@ -10,7 +10,7 @@ namespace Netificator.Business
     {
 #if DEBUG
         //public static readonly string HOST = "192.168.1.105";
-        public static readonly string HOST = "stun.phoneserve.com";
+        public static readonly string HOST = "ludarous.com";
 #else
         public static readonly string HOST = "ludarous.com";
 #endif
