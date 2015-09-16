@@ -33,7 +33,6 @@ namespace Netificator.Client
 
         private IPEndPoint _serverEndpoint;
         private IPEndPoint _localEndpoint;
-        private IPEndPoint _remoteEndpoint;
 
         private AsynchronousTcpSocket _tcpSocket;
         private Socket _udpSocket;
@@ -48,7 +47,7 @@ namespace Netificator.Client
         {
             get
             {
-                return new PeerInfo() { Username = _username, RemoteEndpoint = _remoteEndpoint.ToString() };
+                return new PeerInfo() { Username = _username};
             }
         }
 
@@ -67,13 +66,17 @@ namespace Netificator.Client
 
         public NetificatorClient()
         {
-            IPHostEntry ipHostInfo = Dns.GetHostEntry(Defaults.HOST);
-            _serverEndpoint = new IPEndPoint(ipHostInfo.AddressList[0], Defaults.UDP_PORT);
+            IPHostEntry ipServerInfo = Dns.GetHostEntry(Defaults.SERVER);
+            _serverEndpoint = new IPEndPoint(ipServerInfo.AddressList[0], Defaults.UDP_PORT);
 
+            IPHostEntry ipLocalInfo = Dns.GetHostEntry(Dns.GetHostName());
+            _localEndpoint = new IPEndPoint(ipLocalInfo.AddressList[1], Defaults.UDP_PORT);
 
             #region sockets
             
             _udpSocket = new Socket(SocketType.Dgram, ProtocolType.Udp);
+            _udpSocket.EnableBroadcast = true;
+            _udpSocket.Bind(new IPEndPoint(IPAddress.Any, 0));
 
             #endregion
             _client = new UdpClient();
@@ -89,11 +92,15 @@ namespace Netificator.Client
           
             // Connect the socket to the remote endpoint. Catch any errors.
             try
-            {            
-                _client.Send(stunMessageBytes, stunMessageBytes.Length, _serverEndpoint);
-                _tcpSocket.Connect(_serverEndpoint);   
- 
-                StartReceiveUdp(_udpSocket);
+            {
+
+                //_udpSocket.SendTo(stunMessageBytes, _serverEndpoint);
+                //_udpSocket.Poll(100, SelectMode.SelectRead);
+                //StartReceiveUdp(_udpSocket);
+
+                _tcpSocket.Connect(_serverEndpoint);
+                _tcpSocket.Send(stunMessageBytes);
+                _tcpSocket.StartListening();
             }
             catch (Exception ex)
             {
@@ -136,10 +143,15 @@ namespace Netificator.Client
                 {
                     try
                     {
-                        IPEndPoint senderEndpoint = new IPEndPoint(IPAddress.Any, 0);
-                        //byte[] bytes = sender.Receive(ref senderEndpoint);
+                        IPEndPoint remoteEndpoint = new IPEndPoint(IPAddress.Any, 0);
+                        EndPoint remote = (EndPoint)remoteEndpoint;
 
-                        //STUNMessage stunMessage = new STUNMessage(bytes);
+                        byte[] bytes = new byte[short.MaxValue];
+                        int messageLength = sender.ReceiveFrom(bytes,ref remote);
+
+                        byte[] receivedBytes = bytes.Take(messageLength).ToArray();
+
+                        STUNMessage stunMessage = new STUNMessage(receivedBytes);
                     }
                     catch (Exception ex)
                     {

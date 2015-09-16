@@ -56,9 +56,10 @@ namespace Netificator.Business.Helpers
 
         public static T MarshalToObject<T>(byte[] bytes)
         {
-            int size = bytes.Length;
+            byte[] reverseBytes = bytes.Reverse().ToArray();
+            int size = reverseBytes.Length;
             var ptr = Marshal.AllocHGlobal(size);
-            Marshal.Copy(bytes, 0, ptr, size);
+            Marshal.Copy(reverseBytes, 0, ptr, size);
             var your_object = (T)Marshal.PtrToStructure(ptr, typeof(T));
             Marshal.FreeHGlobal(ptr);
             return your_object;

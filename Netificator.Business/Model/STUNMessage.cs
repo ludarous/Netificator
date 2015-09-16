@@ -33,12 +33,19 @@ namespace Netificator.Business.Model
 
         public STUNMessage(byte[] bytes)
         {
+            int sizeToSkip = 0;
             STUNMessageHeader header = new STUNMessageHeader(bytes);
             this.MessageHeader = header;
+
+            sizeToSkip = this.MessageHeader.SizeInBytes;
             if (header.Length > 0)
             {
-                STUNAttributeTLV attribute = new STUNAttributeTLV(bytes.Skip(20).ToArray());
-                AddAttribute(attribute);
+                while(sizeToSkip < bytes.Length)
+                {
+                    STUNAttributeTLV attribute = new STUNAttributeTLV(bytes.Skip(sizeToSkip).ToArray());
+                    AddAttribute(attribute);
+                    sizeToSkip += attribute.SizeInBytes;
+                }                
             }
         }
 
