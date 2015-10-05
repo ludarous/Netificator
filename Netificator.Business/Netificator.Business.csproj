@@ -47,6 +47,7 @@
     <Compile Include="Enums\MessageTypes.cs" />
     <Compile Include="Enums\STUNAttributeTypes.cs" />
     <Compile Include="Enums\STUNMessageTypes.cs" />
+    <Compile Include="Helpers\ByteHelper.cs" />
     <Compile Include="Helpers\EndpointHelper.cs" />
     <Compile Include="Helpers\SerializeHelper.cs" />
     <Compile Include="Interfaces\ISTUNSerializable.cs" />
@@ -56,6 +57,7 @@
     <Compile Include="Model\EventArguments\ErrorOccurredEventArgs.cs" />
     <Compile Include="Model\EventArguments\MessageReceivedEventArgs.cs" />
     <Compile Include="Model\ITLVObject.cs" />
+    <Compile Include="Model\MagicCookie.cs" />
     <Compile Include="Model\StateObject.cs" />
     <Compile Include="Model\STUNAttributeTLV.cs" />
     <Compile Include="Model\STUNMessage.cs" />

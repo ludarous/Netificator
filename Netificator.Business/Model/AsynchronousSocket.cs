@@ -103,7 +103,7 @@ namespace Netificator.Business.Model
                 Socket client = (Socket)ar.AsyncState;
 
                 // Complete the connection.
-                client.EndConnect(ar);
+                client.EndConnect(ar);                
 
                 Console.WriteLine("Socket connected to {0}",
                     client.RemoteEndPoint.ToString());

@@ -94,13 +94,13 @@ namespace Netificator.Client
             try
             {
 
-                //_udpSocket.SendTo(stunMessageBytes, _serverEndpoint);
-                //_udpSocket.Poll(100, SelectMode.SelectRead);
-                //StartReceiveUdp(_udpSocket);
+                _udpSocket.SendTo(stunMessageBytes, _serverEndpoint);
+                _udpSocket.Poll(100, SelectMode.SelectRead);
+                StartReceiveUdp(_udpSocket);
 
-                _tcpSocket.Connect(_serverEndpoint);
-                _tcpSocket.Send(stunMessageBytes);
-                _tcpSocket.StartListening();
+                //_tcpSocket.Connect(_serverEndpoint);
+                //_tcpSocket.Send(stunMessageBytes);
+                //_tcpSocket.StartListening();
             }
             catch (Exception ex)
             {

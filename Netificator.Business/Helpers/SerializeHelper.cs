@@ -50,16 +50,14 @@ namespace Netificator.Business.Helpers
             Marshal.Copy(ptr, bytes, 0, size);
             // Release unmanaged memory.
             Marshal.FreeHGlobal(ptr);
-            Array.Reverse(bytes);
             return bytes;
         }
 
         public static T MarshalToObject<T>(byte[] bytes)
         {
-            byte[] reverseBytes = bytes.Reverse().ToArray();
-            int size = reverseBytes.Length;
+            int size = bytes.Length;
             var ptr = Marshal.AllocHGlobal(size);
-            Marshal.Copy(reverseBytes, 0, ptr, size);
+            Marshal.Copy(bytes, 0, ptr, size);
             var your_object = (T)Marshal.PtrToStructure(ptr, typeof(T));
             Marshal.FreeHGlobal(ptr);
             return your_object;

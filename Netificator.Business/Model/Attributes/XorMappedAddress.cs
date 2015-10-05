@@ -51,15 +51,15 @@ namespace Netificator.Business.Model.AttributeValues
         {
             byte[] addressFamilyTypeBytes = new byte[2];
             Array.Copy(bytes, 0, addressFamilyTypeBytes, 0, 2);
-            this.AddressFamilyType = (AddressFamilyTypes)SerializeHelper.MarshalToObject<ushort>(addressFamilyTypeBytes);
+            this.AddressFamilyType = (AddressFamilyTypes)SerializeHelper.MarshalToObject<ushort>(addressFamilyTypeBytes.Reverse().ToArray());
 
             byte[] portBytes = new byte[2];
             Array.Copy(bytes, 2, portBytes, 0, 2);
-            this.Port = SerializeHelper.MarshalToObject<ushort>(portBytes);
+            this.Port = SerializeHelper.MarshalToObject<ushort>(ByteHelper.ReverseXor(portBytes.Reverse().ToArray(), Defaults.MAGIC_COOKIE.Bytes));
 
-            byte[] ipAddress = new byte[bytes.Length - 4];
-            Array.Copy(bytes, 4, ipAddress, 0, bytes.Length - 4);
-            this.IpAddress = new IPAddress(ipAddress);
+            byte[] ipAddressBytes = new byte[bytes.Length - 4];
+            Array.Copy(bytes, 4, ipAddressBytes, 0, bytes.Length - 4);
+            this.IpAddress = new IPAddress(ByteHelper.ReverseXor(ipAddressBytes.Reverse().ToArray(), Defaults.MAGIC_COOKIE.Bytes));
         }
 
         private byte[] ToByteArray()
@@ -70,16 +70,20 @@ namespace Netificator.Business.Model.AttributeValues
 
             byte[] addressFamilyTypeBytes = SerializeHelper.MarshalToByteArray((ushort)this.AddressFamilyType);
             byte[] portBytes = SerializeHelper.MarshalToByteArray((ushort)this.Port);
-            byte[] ipAddressBytes = IpAddress.GetAddressBytes();
+            byte[] addressBytes = IpAddress.GetAddressBytes();
 
-            mappedAddressBytes.AddRange(addressFamilyTypeBytes);
+
+            portBytes = ByteHelper.Xor(portBytes, Defaults.MAGIC_COOKIE.Bytes);
+            addressBytes = ByteHelper.Xor(addressBytes, Defaults.MAGIC_COOKIE.Bytes);
+
+            mappedAddressBytes.AddRange(addressFamilyTypeBytes.Reverse());
             byteArrayOffset += 2;
 
-            mappedAddressBytes.AddRange(portBytes);
+            mappedAddressBytes.AddRange(portBytes.Reverse());
             byteArrayOffset += 2;
 
-            mappedAddressBytes.AddRange(ipAddressBytes);
-            byteArrayOffset += ipAddressBytes.Length;
+            mappedAddressBytes.AddRange(addressBytes.Reverse());
+            byteArrayOffset += addressBytes.Length;
 
             return mappedAddressBytes.ToArray();
         }
